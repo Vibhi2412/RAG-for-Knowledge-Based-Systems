@@ -1,0 +1,14 @@
+notebook
+sentence-transformers
+bm25s
+PyStemmer
+ollama>=0.5
+datasets
+rouge-score
+sacrebleu
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+tqdm
